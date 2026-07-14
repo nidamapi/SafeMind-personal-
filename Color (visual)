@@ -1,0 +1,11 @@
+| Elemento         | Color         | Código HEX  |
+| ---------------- | ------------- | ----------- |
+| Color principal  | Azul suave    | **#5DADE2** |
+| Color secundario | Verde suave   | **#6FCF97** |
+| Fondo            | Blanco cálido | **#FAFAFA** |
+| Texto principal  | Gris oscuro   | **#374151** |
+| Texto secundario | Gris medio    | **#6B7280** |
+| Bien             | Verde         | **#34C759** |
+| Alerta           | Amarillo      | **#F4C542** |
+| Riesgo           | Naranja       | **#FF8A3D** |
+| Crisis           | Rojo          | **#E53935** |

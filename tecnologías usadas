@@ -1,0 +1,23 @@
+Frontend
+PHP • HTML5 • CSS3 • JavaScript
+
+Backend
+PHP 8
+
+Base de Datos:Repositorio Seguro de Indicadores(Porque psicológicamente y visualmente transmite que no se almacenan conversaciones, sino indicadores derivados del análisis.)
+MySQL
+
+IA:Motor de Inteligencia Emocional(Suena mucho más orientado al problema que están resolviendo.)
+API LLM para análisis emocional
+
+Automatización
+n8n
+
+Canal de interacción
+Telegram Bot API
+
+Notificaciones
+Correo electrónico + Push
+
+Visualización
+Dashboard Web:Panel Institucional de Bienestar(Es más coherente con el propósito del proyecto.)

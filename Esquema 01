@@ -1,0 +1,75 @@
+Entrada → Procesamiento → IA → Decisión → Automatización → Visualización
+"Un sistema de detección temprana de riesgo emocional basado en IA con arquitectura orientada a la privacidad."
+SafeMind no es un chatbot, sino un ecosistema de detección temprana, análisis inteligente, protección de la privacidad y apoyo institucional, que es justamente lo que diferencia al proyecto.
+
+                              SAFEMIND
+      Sistema Inteligente para la Detección Temprana del Bienestar Emocional
+────────────────────────────────────────────────────────────────────────────────────
+
+                        CHECK-IN DIARIO (< 2 minutos)
+
+                               👨‍🎓 Estudiante
+                                      │
+                                      ▼
+                         🤖 Bot de Telegram SafeMind
+                     • Selecciona un emoji emocional
+                     • Escribe una breve reflexión
+                                      │
+                                      ▼
+────────────────────────────────────────────────────────────────────────────────────
+                     SERVIDOR SEGURO SAFEMIND (PHP)
+
+             Recepción segura • Validación • Seudonimización
+
+              (El mensaje nunca es visible para docentes)
+
+                                      │
+                                      ▼
+────────────────────────────────────────────────────────────────────────────────────
+                   MOTOR DE INTELIGENCIA ARTIFICIAL
+
+            • Comprensión del lenguaje natural
+            • Detección de emociones predominantes
+            • Identificación de señales de riesgo
+            • Clasificación del bienestar emocional
+
+                         Nivel 1 │ Nivel 2 │ Nivel 3 │ Nivel 4
+
+                                      │
+                                      ▼
+────────────────────────────────────────────────────────────────────────────────────
+                  RESULTADO ESTRUCTURADO (NO EL TEXTO)
+
+        ✔ Nivel de bienestar
+        ✔ Emoción predominante
+        ✔ Indicadores detectados
+        ✔ Fecha y hora
+
+        (El mensaje original no se comparte con terceros)
+
+                                      │
+               ┌──────────────────────┴──────────────────────┐
+               │                                             │
+               ▼                                             ▼
+
+     Recursos personalizados                     Automatización (n8n)
+
+ • Mensaje de apoyo                           • Evaluación del nivel
+ • Ejercicio de respiración                   • Flujo de decisiones
+ • Técnicas de relajación                     • Gestión de alertas
+ • Estrategias de regulación emocional
+
+                                                     │
+                                 ┌───────────────────┴────────────────────┐
+                                 │                                        │
+                                 ▼                                        ▼
+
+                     Dashboard Institucional                 Orientador Escolar
+
+             • Mapa de calor emocional                (Solo en Riesgo o Crisis)
+             • Tendencias por curso
+             • Estadísticas agregadas                 • Correo automático
+             • Sin conversaciones                     • Notificación Push
+             • Sin nombres                            • Seguimiento institucional
+
+────────────────────────────────────────────────────────────────────────────────────
