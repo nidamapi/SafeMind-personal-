@@ -3,3 +3,6 @@
 Psyche es un compañero digital que acompaña a los estudiantes todos los días para cuidar su bienestar emocional de forma cercana, privada y sin juzgar.
 
 Psyche, una inteligencia artificial creada para brindar acompañamiento preventivo a estudiantes dentro de la plataforma SafeMind. Se define a esta entidad no como una herramienta de diagnóstico, sino como un espacio seguro y empático que prioriza la escucha activa y el bienestar mental. Su comunicación se fundamenta en pilares de cercanía, esperanza y positividad realista, evitando tecnicismos clínicos para hablar de forma natural con los adolescentes. Además, el documento establece protocolos específicos para detectar riesgos emocionales y canalizar la ayuda hacia orientadores humanos cuando la situación lo requiere. En última instancia, Psyche actúa como un puente humano-tecnológico que busca normalizar la expresión de sentimientos en el entorno escolar.
+
+## Estados - Expresiones Psyche
+https://docs.google.com/document/d/1c1x8lykqMfDQnRRPKzVtCl5Zavq3W_uzjapqgXtNwmA/edit?usp=sharing
