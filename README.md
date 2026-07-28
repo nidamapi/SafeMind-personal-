@@ -6,3 +6,6 @@ Psyche, una inteligencia artificial creada para brindar acompañamiento preventi
 
 ## Estados - Expresiones Psyche
 https://docs.google.com/document/d/1c1x8lykqMfDQnRRPKzVtCl5Zavq3W_uzjapqgXtNwmA/edit?usp=sharing
+
+## Dashboard Profesional
+El **dashboard profesional de SafeMind** será una plataforma web diseñada para que docentes y orientadores escolares puedan monitorear de forma segura y en tiempo real el bienestar emocional de los estudiantes, utilizando información generada por los check-ins diarios realizados a través del chatbot de Telegram. Su diseño prioriza la privacidad, mostrando únicamente datos agregados, indicadores, gráficos y mapas de calor para los docentes, mientras que el orientador recibe alertas y acceso a los casos que requieren acompañamiento, convirtiéndose en el centro de control desde donde se visualiza el estado emocional de la comunidad educativa y se facilita la toma de decisiones oportunas sin comprometer la confidencialidad de los estudiantes.
