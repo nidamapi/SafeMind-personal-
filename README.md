@@ -23,3 +23,11 @@ Esta separación de funciones garantiza una gestión eficiente, protege la priva
 
 ## Versiones logotipo 
 https://docs.google.com/document/d/1UYcIq5O2Ab8mqvG5GDO0qiC751sZRRVRoPl1dKaWJoI/edit?usp=sharing
+
+## Arquitectura general
+https://docs.google.com/document/d/1buOrapLFvWS2K6ucNLG-4qNlpGz11eG5S3jvkjivVQM/edit?usp=sharing
+
+## Impacto esperado
+SafeMind busca fortalecer el bienestar emocional en las instituciones educativas mediante una estrategia de prevención apoyada por inteligencia artificial. A través de Psyche, los estudiantes disponen de un espacio seguro y accesible para expresar sus emociones, mientras que docentes y orientadores cuentan con herramientas especializadas que facilitan la identificación temprana de situaciones que requieren acompañamiento, respetando en todo momento la privacidad y la confidencialidad de la información.
+
+Con su implementación, se espera fortalecer la capacidad de las instituciones para detectar oportunamente factores de riesgo, optimizar los procesos de acompañamiento emocional y apoyar la toma de decisiones mediante información organizada y útil. De esta manera, SafeMind no solo contribuye al fortalecimiento del clima escolar, sino que también impulsa una cultura de prevención, cuidado y educación socioemocional, alineada con las necesidades actuales del sistema educativo colombiano y con los principios establecidos en la Ley 2503 de 2025.
