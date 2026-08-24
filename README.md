@@ -48,7 +48,7 @@ El **dashboard profesional de SafeMind** será una plataforma web diseñada para
 https://docs.google.com/document/d/1jyXT6wpkt7tHUHPTXZzsHNAWiqmetnBr3kRXNpLw_Ps/edit?usp=sharing
 
 
-### Dashboard-Orientador
+### Dashboard de Orientación
 https://docs.google.com/document/d/1zJhQHsX902AKZSR-Kr2__HLMbKlWV8MiQGIIlSDYDeY/edit?usp=sharing
 
 *Explicación estructura:* 
@@ -63,3 +63,11 @@ Con su implementación, se espera fortalecer la capacidad de las instituciones p
 
 ## Corrección a tener en cuenta a la hora de programar
 https://docs.google.com/document/d/13hNvnyUhBD7rM0gRXyzE_6TayCwihrnIu675Xa01Jbc/edit?usp=sharing
+
+## Conclusiones
+
+SafeMind se plantea como una solución tecnológica orientada a fortalecer la prevención y el acompañamiento del bienestar emocional en las instituciones educativas. La integración de Psyche, inteligencia artificial y herramientas especializadas para docentes y profesionales de orientación permite transformar las interacciones cotidianas de los estudiantes en información útil para identificar oportunamente situaciones que puedan requerir atención.
+
+El proyecto también demuestra que la tecnología puede complementar el trabajo humano sin reemplazarlo. Mientras Psyche facilita un espacio accesible para que los estudiantes expresen cómo se sienten, los profesionales de la institución mantienen la responsabilidad de interpretar la situación, tomar decisiones y realizar el acompañamiento correspondiente. La incorporación de una Red de Apoyo Institucional permite, además, fortalecer la capacidad de respuesta ante situaciones prioritarias y evitar que la atención dependa exclusivamente de una persona.
+
+En este sentido, SafeMind no se limita al desarrollo de una herramienta tecnológica, sino que propone un modelo de apoyo en el que la inteligencia artificial, la institución educativa y sus profesionales trabajan de manera articulada para promover una cultura de prevención, cuidado y bienestar emocional.
