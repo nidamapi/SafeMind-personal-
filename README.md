@@ -1,12 +1,19 @@
-# SafeMind-personal-
+# Documentación oficial SafeMind
 
+## ¿Qué es SafeMind?
+SafeMind es una solución tecnológica orientada al fortalecimiento del bienestar emocional en instituciones educativas mediante la integración de inteligencia artificial, automatización y herramientas de acompañamiento institucional.
+
+La solución utiliza a Psyche como interfaz de interacción con los estudiantes a través de Telegram. Mediante check-ins emocionales, los estudiantes pueden expresar cómo se sienten de manera sencilla y accesible. La información obtenida permite identificar situaciones que requieren atención y, cuando corresponde, activar los mecanismos institucionales definidos por SafeMind.
+
+La plataforma web complementa este proceso proporcionando herramientas diferenciadas para los docentes y para los integrantes de la Red de Apoyo Institucional.
+
+## Arquitectura general
+https://docs.google.com/document/d/1buOrapLFvWS2K6ucNLG-4qNlpGz11eG5S3jvkjivVQM/edit?usp=sharing
 
 ## Versiones logotipo 
 https://docs.google.com/document/d/1UYcIq5O2Ab8mqvG5GDO0qiC751sZRRVRoPl1dKaWJoI/edit?usp=sharing
 
 
-## Arquitectura general
-https://docs.google.com/document/d/1buOrapLFvWS2K6ucNLG-4qNlpGz11eG5S3jvkjivVQM/edit?usp=sharing
 
 
 ## Mascota
